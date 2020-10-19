@@ -1,0 +1,17 @@
+.b-input{
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 20rem;
+
+}
+.b-input:focus{
+    outline: none;
+}
+.b-text-label{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}

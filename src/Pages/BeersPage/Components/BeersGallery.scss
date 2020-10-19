@@ -1,0 +1,30 @@
+
+.c-beers-gallery{
+margin: 140px 10px 10px 100px;
+&_item{
+    display: inline;   
+}
+&_img {
+     max-width: 18rem;
+     max-height: 16rem;
+    text-justify: center;
+    margin-left: 2rem;
+}
+&_title{
+    font-family: 'Rock Salt', cursive;
+    max-height: 2rem;
+}
+&_subtitle{
+    font-family: 'Arial Narrow';
+    font-style: italic;
+}
+&_button {
+    border:none;
+    background-color: #595647;
+    padding:8px;
+    border-radius: 6px;
+    color: beige;
+    width: 8rem;
+    margin-left: 1rem;
+}
+}

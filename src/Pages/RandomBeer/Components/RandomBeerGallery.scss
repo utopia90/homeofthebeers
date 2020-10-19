@@ -1,0 +1,43 @@
+.c-randombeer{
+    text-align: center;
+
+&__img{
+    max-height: 20rem;
+    max-width: 18rem;
+}
+&__caption{
+    font-family: 'Rock Salt';
+    font-size: 2rem;
+}
+&__data{
+    font-family: 'Arial Narrow';
+    font-size: 1rem;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding: 0 110px 0 110px;
+    width: 60rem;
+    background-color: #595647;
+}
+&__description{
+    padding-right: 80px;
+    width: 100%;
+    background-color: #595647;
+    color: beige;
+
+    &__title{
+        color: black;
+    }
+}
+&__tips{
+   width: 100%;
+   background-color: #595647;
+   color: beige;
+
+   &__title{
+       color: black;
+   }
+
+
+}
+}

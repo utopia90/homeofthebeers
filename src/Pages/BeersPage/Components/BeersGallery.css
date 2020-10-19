@@ -1,0 +1,23 @@
+.c-beers-gallery {
+  margin: 80px 10px 10px 100px;
+}
+
+.c-beers-gallery_item {
+  display: inline;
+}
+
+.c-beers-gallery_img {
+  max-width: 18rem;
+  max-height: 16rem;
+  text-justify: center;
+}
+
+.c-beers-gallery_title {
+  font-family: 'Rock Salt', cursive;
+  max-height: 2rem;
+}
+
+.c-beers-gallery_subtitle {
+  font-family: 'Arial Narrow';
+}
+/*# sourceMappingURL=BeersGallery.css.map */

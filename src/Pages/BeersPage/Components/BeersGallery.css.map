@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,gBAAgB,CAAA;EAChB,MAAM,EAAE,oBAAoB;CAgB3B;;AAfA,AAAD,qBAAM,CAAA;EACF,OAAO,EAAE,MAAM;CAClB;;AACA,AAAD,oBAAK,CAAC;EACD,SAAS,EAAE,KAAK;EAChB,UAAU,EAAE,KAAK;EAClB,YAAY,EAAE,MAAM;CACvB;;AACA,AAAD,sBAAO,CAAA;EACH,WAAW,EAAE,oBAAoB;EACjC,UAAU,EAAE,IAAI;CACnB;;AACA,AAAD,yBAAU,CAAA;EACN,WAAW,EAAE,cAAc;CAC9B",
+    "sources": [
+        "BeersGallery.scss"
+    ],
+    "names": [],
+    "file": "BeersGallery.css"
+}
